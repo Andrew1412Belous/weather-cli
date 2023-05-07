@@ -1,0 +1,30 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "engines": {
+    "node": ">14"
+  },
+  "browser": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Andrii Bilous",
+  "license": "ISC",
+  "homepage": "https://github.com/Andrew1412Belous",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Andrew1412Belous"
+  },
+  "bugs": {
+    "type": "git",
+    "url": "https://github.com/Andrew1412Belous"
+  }
+}
